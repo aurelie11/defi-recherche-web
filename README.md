@@ -48,5 +48,11 @@ Source : http://www.journaldunet.com/business/pratique/dictionnaire-du-marketing
 Copyleft : Le terme Copyleft est un jeu de mot sur Copyright. En fait le copyleft n’est pas une négation, un anti-copyright, mais s’appuie sur le copyright pour défendre les droits des utilisateurs, plutôt que ceux des créateurs.
 Source : http://arts-numeriques.codedrops.net/Autour-du-copyleft
 
+Question 5:
+Que sont les Creatives Commons ?
+
+Creative Commons : organisation à but non lucratif qui a pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique.
+Source : http://creativecommons.fr/
+
 
 
