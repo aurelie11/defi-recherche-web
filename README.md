@@ -54,5 +54,11 @@ Que sont les Creatives Commons ?
 Creative Commons : organisation à but non lucratif qui a pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique.
 Source : http://creativecommons.fr/
 
+Question 6 :
+Qui est Grace Hopper ?
+
+Reponse : Informaticienne américaine et amiral de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
+Source : http://www.jesuismort.com/biographie_celebrite_chercher/biographie-grace_hopper-18107.php
+
 
 
